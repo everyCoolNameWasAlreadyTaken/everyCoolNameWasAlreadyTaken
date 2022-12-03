@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @everyCoolNameWasAlreadyTaken
-- 🌱 I’m currently studying Computer Science
+- 🌱 I’m currently studying HCI
 - ✨
 
 <!---
