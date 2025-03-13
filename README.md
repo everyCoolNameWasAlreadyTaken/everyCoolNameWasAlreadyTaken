@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @everyCoolNameWasAlreadyTaken
-- 🌱 I’m currently studying HCI
+- 🌱 I’m currently studying HCI @ LMU Munich
+- :computer: Currently working at Friedrich-Schiller-Universität Jena as part of the [HisQu](https://github.com/HisQu) project
 - ✨
 
 <!---
