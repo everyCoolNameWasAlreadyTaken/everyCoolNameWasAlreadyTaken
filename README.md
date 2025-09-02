@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @everyCoolNameWasAlreadyTaken (Rebecca)
-- 🌱 I’m currently studying HCI @ LMU Munich & writing my master thesis
-- :computer: Currently working at Friedrich-Schiller-Universität Jena as research associate in the [HisQu](https://github.com/HisQu) project
+- - :computer: Currently working at Friedrich-Schiller-Universität Jena as research associate in the [HisQu](https://github.com/HisQu) project
+- 🌳 studied HCI @ LMU Munich & writing my master thesis
 - My profile image is my :pencil2: & :scroll: char - a paladin of the war god Kor in 'The Dark Eye' universe
 - ✨
 
